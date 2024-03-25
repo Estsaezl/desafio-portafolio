@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+* {
+    font-family: "Truculenta", sans-serif;
+}
+
+p {
+    margin: 0;
+    color: $custom-violet;
+}
+
+a {
+    text-decoration: none;
+    color: $custom-violet;
+}
+
+h1 {
+    color: $custom-purple ;
+}
+
+h2 {
+    color: $custom-pink ;
+}
+
+h3 {
+    text-align: center;
+    margin: $sp3 0;
+    color: $custom-violet;
+}
+
+h4 {
+    text-align: center;
+    margin: $sp2 0;
+    color: $custom-violet;
+}

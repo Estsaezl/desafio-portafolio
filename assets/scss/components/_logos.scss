@@ -1,0 +1,11 @@
+.logo {
+    &__habilidades {
+        display: flex;
+        align-items: center;
+    }
+
+    &__img {
+        width: 50px;
+        margin-right: $sp1;
+    }
+}

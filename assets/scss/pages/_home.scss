@@ -1,0 +1,15 @@
+.proyectos__img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contacto {
+    &__information {
+        display: flex;
+        align-items: center;
+    }
+    &__brand {
+        color: $custom-pink;
+        margin-right: $sp2;
+    }
+}
